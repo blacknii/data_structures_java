@@ -6,6 +6,8 @@ public class Main {
         l.addFirst(10);
         l.addFirst(20);
         l.addLast(30);
+//        l.show();
+        l.addAfter(l.head, 15);
         l.show();
     }
 }

@@ -157,5 +157,34 @@ public class Lista {
         return null;
     }
 
+    void deleteByValue(int x) {
+        // If the list is empty, throw an exception
+        if (head == null) {
+            throw new RuntimeException("Brak wezla");
+        }
+
+        // If the head contains the value to be deleted
+        if (head.data == x) {
+            head = head.next;
+            return;
+        }
+
+        // Search for the node to be deleted, keep track of the previous node
+        Elem temp = head;
+        Elem prev = null;
+        while (temp != null && temp.data != x) {
+            prev = temp;
+            temp = temp.next;
+        }
+
+        // If value was not present in linked list
+        if (temp == null) {
+            throw new RuntimeException("Brak wezla");
+        }
+
+        // Unlink the node from linked list
+        prev.next = temp.next;
+    }
+
 }
 

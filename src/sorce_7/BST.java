@@ -221,4 +221,12 @@ public class BST {
         delete(pre);
         return root;
     }
+
+    int countNodes(Elem e) {
+        if (e == null) {
+            return 0;
+        } else {
+            return 1 + countNodes(e.left) + countNodes(e.right);
+        }
+    }
 }

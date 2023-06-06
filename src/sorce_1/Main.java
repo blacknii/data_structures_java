@@ -21,8 +21,9 @@ public class Main {
         l.addAtFront(115);
         l.addAtFront(25);
         l.show();
-        Elem t = l.findX(115);
-        l.delelemAtAddr(t);
+//        Elem t = l.findX(115);
+//        l.delelemAtAddr(t);
+        l.deleteByValue(115);
         l.show();
         }
     }

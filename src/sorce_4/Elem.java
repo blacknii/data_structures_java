@@ -1,6 +1,6 @@
 package sorce_4;
 
 public class Elem {
-    int data;
+    char data;
     Elem next;
 }

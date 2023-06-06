@@ -1,21 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d541d5e8-d79a-49f9-8c13-d287d5bccb1d" name="Changes" comment="" />
+    <list default="true" id="d541d5e8-d79a-49f9-8c13-d287d5bccb1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_1/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_1/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_2/ListaDwukierunkowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_2/ListaDwukierunkowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_4/Elem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_4/Elem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_4/StackDynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_4/StackDynamic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_7/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_7/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorce_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorce_7/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QnRGMcr9H7Jszf9pRhuwZ1wJ3C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\data_structures_java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sorce_4.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorce_7.Main" />
+      <module name="data_structures_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorce_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorce_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorce_1.Main" />
+      <module name="data_structures_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorce_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorce_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorce_2.Main" />
+      <module name="data_structures_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorce_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorce_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorce_4.Main" />
+      <module name="data_structures_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorce_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sorce_4.Main" />
+        <item itemvalue="Application.sorce_2.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.sorce_1.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -24,7 +112,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685987263932</updated>
+      <workItem from="1685987265278" duration="482000" />
+      <workItem from="1686034700825" duration="4744000" />
+      <workItem from="1686043829963" duration="522000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
